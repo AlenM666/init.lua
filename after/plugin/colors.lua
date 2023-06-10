@@ -3,7 +3,7 @@ require('tokyonight').setup({
 })
 
 function ColorMyPencils(color)
-	-- color = color or "tokyonight-moon"
+	-- color = color or "tokyonight"
 	-- color = color or "poimandres"
 	color = color or "iceberg"
 	-- color = color or "rose-pine"
